@@ -1,0 +1,2 @@
+# django
+djangoでのHP作成
